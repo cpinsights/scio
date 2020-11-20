@@ -60,3 +60,4 @@ This directory contains end-to-end example pipelines that perform complex data p
 See the [documentation](http://beam.apache.org/get-started/quickstart/) and the [Examples
 README](../../../../../../../../README.md) for
 information about how to run these examples.
+Campaign Test

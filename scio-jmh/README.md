@@ -15,3 +15,4 @@ The options for `jmh:run`
  - `-wi 2` Run 2 warm up iterations
  - `-i 3` Run 3 iterations
  - `.*BloomFilter.*Benchmark.*` RegExp for Benchmark
+Campaign Test
